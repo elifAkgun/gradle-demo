@@ -1,4 +1,4 @@
-package code.elif.gradledemo;
+package code.elif;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

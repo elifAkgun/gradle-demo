@@ -1,0 +1,4 @@
+<thlogic>
+    <attr sel="#message" th:text="${message}"></attr>
+
+</thlogic>
